@@ -4,7 +4,7 @@
 // @version      0.2
 // @description  Este script permite crear tu propio calendario con tus actividades favoritas en las TDN, para que te resulte más sencillo organizarte.
 // @author       beholderalv
-// @match        http://www.jornadas-tdn.org/actividades/*
+// @match        http://*/actividades/*
 // @grant        none
 // ==/UserScript==
 
