@@ -4,7 +4,7 @@ Este script permite seleccionar tus actividades favoritas y poder verlas juntas 
 ## Instalación ##
 Requiere Tampermonkey (Chrome o Safari) o Greasemonkey (Firefox) instalado.
 
-### Tampermonkey [Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Safari](https://tampermonkey.net)###
+### Tampermonkey ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Safari](https://tampermonkey.net)) ###
 1. Visia https://github.com/alvarosp/tdn/raw/master/tdn-mis_actividades.js
 2. Cuando cargue el editor, selecciona `Install` (*NO* `Process with Chrome`).
 
