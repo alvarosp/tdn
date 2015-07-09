@@ -26,6 +26,10 @@ De momento solo funciona con las listas de actividades (Todas, Juegos de Mesa, R
 * Poder eliminar cada elemento por separado desde "Mis Actividades".
 * Poder añadir/eliminar las actividades en su propia página.
 * Poder añadir/eliminar las actividades en la página de horarios. 
-* Ordenar eventos por fecha.
-* Redibujar estrellas cuando se eliminan todas las actividades.
 * Arreglar bug Bootstrap.
+
+## CHANGELOG ##
+### V0.3 ###
+* Las actividades se ordenan por fecha.
+* Cambios de estilo en la tabla de mis actividades.
+* Cuando se eliminan todas las actividades, se redibujan las estrellas.
