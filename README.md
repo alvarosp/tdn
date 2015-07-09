@@ -22,7 +22,7 @@ En la lista de actividades aparecerá una estrella para añadir cada actividad a
 
 Junto a las pestaña "Alójate" hay una nueva pestaña "Mis Actividades", si haces click aparece un popup con la lista de actividades seleccionadas ordenadas por fecha, pudiendo eliminar todas si se desea. Haz click fuera del popup para cerrarlo.
 
-![Vista de mis actividades](https://github.com/alvarosp/tdn/raw/master/images/shot1.png)
+![Vista de mis actividades](https://github.com/alvarosp/tdn/raw/master/images/shot2.png)
 
 De momento solo funciona con las listas de actividades (Todas, Juegos de Mesa, Rol, Rol en Vivo…), pero no con Horarios ni con la página de una actividad en concreto.
 
