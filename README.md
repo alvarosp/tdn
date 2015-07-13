@@ -26,7 +26,7 @@ Junto a las pestaña "Alójate" hay una nueva pestaña "Mis Actividades", si hac
 
 ![Vista de mis actividades](https://github.com/alvarosp/tdn/raw/master/images/shot2.png)
 
-De momento solo funciona con las listas de actividades (Todas, Juegos de Mesa, Rol, Rol en Vivo…), pero no con Horarios ni con la página de una actividad en concreto.
+Se pueden añadir actividades a favoritos desde las listas de actividades (Todas, Juegos de Mesa, Rol, Rol en Vivo…), la página de una actividad en concreto o desde la web de Horarios, aunque desde esta última no se puede acceder a "Mis Actividades".
 
 ## TO DO ##
 * Poder eliminar cada elemento por separado desde "Mis Actividades".
