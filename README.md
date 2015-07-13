@@ -4,6 +4,8 @@ Este script permite seleccionar tus actividades favoritas y poder verlas juntas 
 ## Instalación ##
 Requiere las extensiones Tampermonkey (Chrome o Safari) o Greasemonkey (Firefox) instaladas para poder ejecutar el script.
 
+Una vez instalada la extensión puedes ir por ejemplo a [la lista de actividades](http://www.jornadas-tdn.org/actividades/lista/jornadas-tierra-de-nadie-2015) y deberían aparecer las estrellas en cada actividad para poder marcarla como favoritos, así como el botón "Mis Actividades".
+
 ### Tampermonkey ([Chrome](https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo), [Safari](https://tampermonkey.net)) ###
 1. Visita https://github.com/alvarosp/tdn/raw/master/tdn-mis_actividades.user.js
 2. Cuando cargue el editor, selecciona `Install` (*NO* `Process with Chrome`).
@@ -28,12 +30,19 @@ De momento solo funciona con las listas de actividades (Todas, Juegos de Mesa, R
 
 ## TO DO ##
 * Poder eliminar cada elemento por separado desde "Mis Actividades".
-* Poder añadir/eliminar las actividades en su propia página.
-* Poder añadir/eliminar las actividades en la página de horarios.
-* Arreglar bug Bootstrap.
-* Añadir capturas al README.
+* Añadir extensión al CSV que se exporta.
+* Botón "Mis Actividades" en Horarios.
 
 ## CHANGELOG ##
+### v1.0.0 ###
+* Se pueden añadir actividades a favoritos desde Horarios.
+* Se puede añadir una actividad a favoritos desde su propia página.
+* Se puede descargar la lista de "Mis Actividades" en formato CSV.
+* Arreglado el bug de Bootstrap.
+* Reestructuración de código para que sea más fácil gestionar distintos paths.
+* Cambiada la forma en la que se guardan los tipos de eventos para que se pueda exportar el CSV.
+* Altura fija del modal de "Mis Actividades".
+
 ### v0.3 ###
 * Las actividades se ordenan por fecha.
 * Cambios de estilo en la tabla de mis actividades.
