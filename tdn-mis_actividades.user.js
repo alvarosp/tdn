@@ -1,10 +1,10 @@
 // ==UserScript==
 // @name         Calendario Actividades TDN
 // @namespace    http://www.jornadas-tdn.org
-// @version      1.0.0
+// @version      1.0.1
 // @description  Este script permite crear tu propio calendario con tus actividades favoritas en las TDN, para que te resulte más sencillo organizarte.
 // @author       beholderalv
-// @match        *://www.jornadas-tdn.org/*
+// @match        *://*.jornadas-tdn.org/*
 // @require      http://code.jquery.com/jquery-2.1.4.min.js
 // @grant        none
 // ==/UserScript==
@@ -40,7 +40,6 @@ $(function() {
         $('.star').css({
             'color':'yellow',
             'float':'right',
-            'font-size':'larger',
             'margin-right':'5px',
             'cursor':'pointer'});
         $('.star').click(function(){

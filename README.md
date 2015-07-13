@@ -34,6 +34,9 @@ De momento solo funciona con las listas de actividades (Todas, Juegos de Mesa, R
 * Botón "Mis Actividades" en Horarios.
 
 ## CHANGELOG ##
+### v1.0.1 ###
+* Arreglado bug www.
+* Cambio tamaño estrella en actividad.
 ### v1.0.0 ###
 * Se pueden añadir actividades a favoritos desde Horarios.
 * Se puede añadir una actividad a favoritos desde su propia página.
